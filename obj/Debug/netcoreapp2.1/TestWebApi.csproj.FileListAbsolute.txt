@@ -1,0 +1,14 @@
+/home/nicola/Documents/CSharp/webapi/TestWebApi/bin/Debug/netcoreapp2.1/TestWebApi.deps.json
+/home/nicola/Documents/CSharp/webapi/TestWebApi/bin/Debug/netcoreapp2.1/TestWebApi.runtimeconfig.json
+/home/nicola/Documents/CSharp/webapi/TestWebApi/bin/Debug/netcoreapp2.1/TestWebApi.runtimeconfig.dev.json
+/home/nicola/Documents/CSharp/webapi/TestWebApi/bin/Debug/netcoreapp2.1/TestWebApi.dll
+/home/nicola/Documents/CSharp/webapi/TestWebApi/bin/Debug/netcoreapp2.1/TestWebApi.pdb
+/home/nicola/Documents/CSharp/webapi/TestWebApi/obj/Debug/netcoreapp2.1/TestWebApi.csprojAssemblyReference.cache
+/home/nicola/Documents/CSharp/webapi/TestWebApi/obj/Debug/netcoreapp2.1/TestWebApi.csproj.CoreCompileInputs.cache
+/home/nicola/Documents/CSharp/webapi/TestWebApi/obj/Debug/netcoreapp2.1/TestWebApi.RazorAssemblyInfo.cache
+/home/nicola/Documents/CSharp/webapi/TestWebApi/obj/Debug/netcoreapp2.1/TestWebApi.RazorAssemblyInfo.cs
+/home/nicola/Documents/CSharp/webapi/TestWebApi/obj/Debug/netcoreapp2.1/TestWebApi.AssemblyInfoInputs.cache
+/home/nicola/Documents/CSharp/webapi/TestWebApi/obj/Debug/netcoreapp2.1/TestWebApi.AssemblyInfo.cs
+/home/nicola/Documents/CSharp/webapi/TestWebApi/obj/Debug/netcoreapp2.1/TestWebApi.RazorTargetAssemblyInfo.cache
+/home/nicola/Documents/CSharp/webapi/TestWebApi/obj/Debug/netcoreapp2.1/TestWebApi.dll
+/home/nicola/Documents/CSharp/webapi/TestWebApi/obj/Debug/netcoreapp2.1/TestWebApi.pdb
